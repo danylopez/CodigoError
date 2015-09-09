@@ -1,0 +1,18 @@
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\bin\Debug\CodigoError.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\bin\Debug\CodigoError.exe
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\bin\Debug\CodigoError.pdb
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\obj\Debug\CodigoError.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\obj\Debug\CodigoError.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\obj\Debug\CodigoError.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\obj\Debug\CodigoError.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\obj\Debug\CodigoError.exe
+C:\Users\Daniel\Documents\Visual Studio 2012\Projects\CodigoError\CodigoError\obj\Debug\CodigoError.pdb
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\bin\Debug\CodigoError.exe.config
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\obj\Debug\CodigoError.exe
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\obj\Debug\CodigoError.pdb
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\bin\Debug\CodigoError.exe
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\bin\Debug\CodigoError.pdb
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\obj\Debug\CodigoError.csprojResolveAssemblyReference.cache
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\obj\Debug\CodigoError.Form1.resources
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\obj\Debug\CodigoError.Properties.Resources.resources
+E:\danny\Documentos\Uni\Universidad UGR\Escuela Intercambio 2\02. Teoría de la Información y la Codificación\Practica2\CodigoError\CodigoError\obj\Debug\CodigoError.csproj.GenerateResource.Cache
